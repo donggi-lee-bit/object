@@ -1,4 +1,4 @@
-package com.donggi.ticketserviceapp;
+package com.donggi.chapter01;
 
 import java.time.LocalDateTime;
 

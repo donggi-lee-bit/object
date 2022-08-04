@@ -1,4 +1,4 @@
-package com.donggi.ticketserviceapp;
+package com.donggi.chapter01;
 
 public class Bag {
     private Long amount;
